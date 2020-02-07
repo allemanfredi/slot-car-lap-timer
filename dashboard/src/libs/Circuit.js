@@ -7,7 +7,7 @@ const Circuit = {
 
   fetch: _e => {
     this.isStopped = false
-    this.process = spawn('python', ['../hardware/fake.py'])
+    this.process = spawn('python', ['../hardware/start.py'])
 
     this.process.stdout.on('data', _data => {
       const str = new encoding.TextDecoder('utf-8').decode(_data)
