@@ -1,6 +1,6 @@
-# Dashboard
+# :pager: Dashboard
 
-## Instructions
+## :page_facing_up: Instructions
 
 Be sure to have installed globally __electron 6.0.0.__ and __nodejs 10.16.3.__
 

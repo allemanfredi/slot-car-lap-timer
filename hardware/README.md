@@ -1,6 +1,6 @@
-# Sensor IR Reader
+# :vertical_traffic_light: Sensor IR Reader
 
-## Instructions
+## :page_facing_up: Instructions
 
 Be sure to have installed globally __python 2.7__
 
